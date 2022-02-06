@@ -1,0 +1,11 @@
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\bin\Debug\netcoreapp3.0\csgotuntilaskuri.exe
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\bin\Debug\netcoreapp3.0\csgotuntilaskuri.deps.json
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\bin\Debug\netcoreapp3.0\csgotuntilaskuri.runtimeconfig.json
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\bin\Debug\netcoreapp3.0\csgotuntilaskuri.runtimeconfig.dev.json
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\bin\Debug\netcoreapp3.0\csgotuntilaskuri.dll
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\bin\Debug\netcoreapp3.0\csgotuntilaskuri.pdb
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\obj\Debug\netcoreapp3.0\csgotuntilaskuri.csprojAssemblyReference.cache
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\obj\Debug\netcoreapp3.0\csgotuntilaskuri.AssemblyInfoInputs.cache
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\obj\Debug\netcoreapp3.0\csgotuntilaskuri.AssemblyInfo.cs
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\obj\Debug\netcoreapp3.0\csgotuntilaskuri.dll
+C:\Users\uNkN0wN\source\repos\csgotuntilaskuri\csgotuntilaskuri\obj\Debug\netcoreapp3.0\csgotuntilaskuri.pdb
